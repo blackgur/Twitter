@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches 1.43.0.mpp)",
-  "versionCode": 10,
-  "zipUrl": "https://github.com/blackgur/Twitter/releases/download/10/music-morphe-module-v9.15.51-arm-v7a.zip",
+  "version": "v9.15.51 (patches 1.44.0.mpp)",
+  "versionCode": 13,
+  "zipUrl": "https://github.com/blackgur/Twitter/releases/download/13/music-morphe-module-v9.15.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/blackgur/Twitter/update/build.md"
 }
